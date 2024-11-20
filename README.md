@@ -56,6 +56,12 @@ Repositori ini berisi implementasi dari *Exercise 6 – Demonstrate a Simple Way
 
 ---
 
+## **Demonstrasi**
+![Exercise6](https://github.com/user-attachments/assets/40821d97-b057-4a23-a4c7-882c69fe3652)
+
+
+---
+
 ## **Pelajaran yang Didapat**
 - **Mekanisme Penangguhan Scheduler**:
   - Menonaktifkan *interrupt* memastikan keamanan akses pada kode kritis.
